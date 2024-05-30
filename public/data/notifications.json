@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "type": "reaction",
+        "name": "Mark Webber",
+        "avatarUrl": "/images/avatar-mark-webber.webp",
+        "message": "reacted to your recent post",
+        "postName": "My first tournament today!",
+        "time": "1m"
+    },
+    {
+        "id": 2,
+        "type": "follow",
+        "name": "Angela Gray",
+        "avatarUrl": "/images/avatar-angela-gray.webp",
+        "message": "followed you",
+        "time": "5m"
+    },
+    {
+        "id": 3,
+        "type": "groupJoin",
+        "name": "Jacob Thompson",
+        "avatarUrl": "/images/avatar-jacob-thompson.webp",
+        "message": "has joined your group",
+        "groupName": "Chess Club",
+        "time": "1 day"
+    },
+    {
+        "id": 4,
+        "type": "pm",
+        "name": "Rizky Hasanuddin",
+        "avatarUrl": "/images/avatar-rizky-hasanuddin.webp",
+        "message": "sent you a private message",
+        "time": "5 days",
+        "pmContent": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
+    },
+    {
+        "id": 5,
+        "type": "pictureComment",
+        "name": "Kimberly Smith",
+        "avatarUrl": "/images/avatar-kimberly-smith.webp",
+        "message": "commented on your picture",
+        "pictureUrl": "/images/image-chess.webp",
+        "time": "1 week"
+    },
+    {
+        "id": 6,
+        "type": "reaction",
+        "name": "Nathan Peterson",
+        "avatarUrl": "/images/avatar-nathan-peterson.webp",
+        "message": "reacted to your recent post",
+        "postName": "5 end-game strategies to increase your win rate",
+        "time": "2 weeks"
+    },
+    {
+        "id": 7,
+        "type": "groupLeave",
+        "name": "Anna Kim",
+        "avatarUrl": "/images/avatar-anna-kim.webp",
+        "message": "has left the group",
+        "groupName": "Chess Club",
+        "time":"2 weeks"
+    }
+]
